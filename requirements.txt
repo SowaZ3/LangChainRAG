@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-openai
+langchain-postgres
+psycopg[binary]
+pypdf
+pymupdf
+python-dotenv
