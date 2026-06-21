@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./screens/header.png" alt="photo" width="50%">
+  <img src="./screens/header.png" alt="photo" width="100%">
 </p>
 
 <h1 align="center">LangChain RAG for returns_policy_pl.pdf with PostgreSQL/pgvector</h1>
